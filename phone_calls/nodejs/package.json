@@ -4,7 +4,7 @@
         "@bazel/jasmine": "0.33.1",
         "grakn-client": "https://repo.grakn.ai/repository/npm-snapshot-group/grakn-client/-/grakn-client-1.8.0.tgz",
         "jasmine-reporters": "^2.3.2",
-        "papaparse": "^4.6.3",
+        "papaparse": "^5.2.0",
         "stream-json": "^1.1.4",
         "xml-stream": "^0.4.5"
     },
